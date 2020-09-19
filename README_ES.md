@@ -9,6 +9,7 @@
 <a href="https://linkedin.com/in/kevin-david-farinango-8984098b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kevin-david-farinango-8984098b" height="30" width="30" /></a>
 <a href="https://fb.com/darkjmk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="darkjmk" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/asuskf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="asuskf" height="30" width="30" /></a>
+  <a href="https://github.com/Asuskf/Asuskf/blob/master/README_ES.md" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36687747/93670743-42f0b900-fa63-11ea-99bd-22bf1ebe0aac.png" alt="asuskf1" height="30" width="48" /></a>
 </p>
 
 <h3 align="left">Mis herramientas favoritas</h3>
