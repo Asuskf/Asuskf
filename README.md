@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Asuskf/Asuskf/blob/master/README_ES.md" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36687747/93670744-44ba7c80-fa63-11ea-9f52-4cd1e38f2cd4.png" alt="asuskf1" height="30" width="48" /></a>
  </br>
   </br>
-<img src="https://user-images.githubusercontent.com/36687747/93940659-857bf500-fcf2-11ea-9f69-f0e4bbc60aa3.png" alt="banner es" width="700" height="272"/>
+<img src="https://user-images.githubusercontent.com/36687747/93940862-dbe93380-fcf2-11ea-9afc-5621cf954863.png" alt="banner es" width="700" height="272"/>
 </p>
 
 <h3 align="left">My favorite tools</h3>
