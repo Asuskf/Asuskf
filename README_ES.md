@@ -4,14 +4,17 @@
 -->
 <h1 align="center">Hola 👋, soy David</h1>
 <h3 align="center">Un cientifico de datos junior de Ecuador</h3>
-![Mesa de trabajo 1](https://user-images.githubusercontent.com/36687747/93939418-6714fa00-fcf0-11ea-89f4-598fc6372f3a.png)
 <p align="center">
-<a href="https://twitter.com/asuskf1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="asuskf1" height="30" width="30" /></a>
+  <a href="https://twitter.com/asuskf1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="asuskf1" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/kevin-david-farinango-8984098b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kevin-david-farinango-8984098b" height="30" width="30" /></a>
 <a href="https://fb.com/darkjmk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="darkjmk" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/asuskf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="asuskf" height="30" width="30" /></a>
   <a href="https://github.com/Asuskf/Asuskf/blob/master/README.md" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36687747/93670743-42f0b900-fa63-11ea-99bd-22bf1ebe0aac.png" alt="Repo_EN" height="30" width="48" /></a>
+  </br>
+  </br>
+<img src="https://user-images.githubusercontent.com/36687747/93939683-cb37be00-fcf0-11ea-8609-32d2f90b7350.png" alt="banner es" width="700" height="272"/>
 </p>
+
 
 <h3 align="left">Mis herramientas favoritas</h3>
 
