@@ -1,36 +1,67 @@
-<!--
-**Asuskf/Asuskf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+  [ASUSKF BRAND LOGO PLACEHOLDER]
+  Design Note: Strictly maintain the "asuskf" visual identity 
+  (Gold tree and coin aesthetic, NO white backgrounds).
 -->
+<div align="center">
+  <h1>👋 Hi, I'm Kevin David Farinango Cinilin</h1>
+  <h3>AI Architect | Data Scientist | PhD(c) Researcher | Data Engineer</h3>
+  
+  <p>
+    Based in <b>Quito, Ecuador</b> 🌎 <br>
+    Bridging the gap between advanced academic research and scalable enterprise AI.
+  </p>
 
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A data scientist from Ecuador</h3>
-<p align="center">
-<a href="https://twitter.com/asuskf1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="asuskf1" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/kevin-david-farinango-8984098b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kevin-david-farinango-8984098b" height="30" width="30" /></a>
-<a href="https://fb.com/darkjmk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="darkjmk" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/asuskf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="asuskf" height="30" width="30" /></a>
-  <a href="https://github.com/Asuskf/Asuskf/blob/master/README_ES.md" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36687747/93670744-44ba7c80-fa63-11ea-9f52-4cd1e38f2cd4.png" alt="asuskf1" height="30" width="48" /></a>
- </br>
-  </br>
-<img src="https://user-images.githubusercontent.com/36687747/93940862-dbe93380-fcf2-11ea-9afc-5621cf954863.png" alt="banner es" width="700" height="272"/>
-</p>
+  <p>
+    <a href="https://asuskf.github.io/"><img src="https://img.shields.io/badge/Portfolio-asuskf.github.io-black?style=for-the-badge&logo=github" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/david-farinango/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://www.youtube.com/@Asuskf"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  </p>
+</div>
 
-<h3 align="left">My favorite tools</h3>
-<!--
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png" alt="docker" width="95" height="40"/></p>
--->
+---
 
+## 🧠 About Me
 
+I am a professional **Data Scientist** and **AI Architect** with **6 years of experience** in the data science ecosystem, including **2 years of specialized experience in Data Engineering**. I focus on building intelligent, robust, and scalable systems using cutting-edge models.
 
-📹 Latest videos on <a href="https://www.youtube.com/c/asuskf" target="blank">my Youtube Channel</a>:
+- 🔭 **Currently Working On:** Applied research for an autonomous investment engine powered by LLMs (for real-time market sentiment on assets like NVDA, TXN, and DIS), and developing a patentable patient-classification process where LLMs function as a discrete reasoning step.
+- 🌱 **Currently Exploring:** Advanced Agentic AI workflows, Knowledge Graphs (GraphRAG), and optimizing responses using models like Gemini, Llama, and Claude.
+- 🏗️ **Architecture Philosophy:** Strong advocate for **Hexagonal Architecture (Ports and Adapters)** to maintain strict separation between business logic and infrastructure in data projects.
+- 📚 **Continuous Learning:** Recently completed the **McKinsey Forward Program** focusing on business leadership, earned the **AI Skills Fest 2026** badge, and actively preparing for the IELTS exam.
+
+---
+
+## 💻 Tech Stack & Engineering Arsenal
+
+| Category | Technologies |
+|-----------|--------------|
+| **Core Languages** | Python 3 |
+| **Data Engineering** | Pandas, NumPy, Medallion Architecture Pipelines |
+| **AI & LLMs** | LangGraph, Prompt Engineering, Gemini, Llama, Claude, Riverml |
+| **Architecture** | Hexagonal Architecture, Microservices |
+| **Databases** | Neo4j (Graph), Vector Stores |
+| **DevOps & Tools** | Docker, Git, GitHub Actions |
+
+---
+
+## 🚀 Featured Work & Research
+
+*   🪐 **[Exoplanet GraphRAG](https://github.com/Asuskf/exoplanet-graphrag-neo4j):** A production-oriented Knowledge Graph platform utilizing Neo4j and LangGraph to ingest and analyze NASA exoplanet datasets.
+*   📈 **[Asuskf Invest](https://github.com/Asuskf/asuskf-invest.github.io):** An autonomous investment engine and frontend dashboard tracking the semiconductor and healthcare sectors using deterministic logic and LLM sentiment analysis.
+*   🏥 **HealthTech Data Pipelines:** Engineered robust extraction and organization pipelines for processing complex medical reports in Spain.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asuskf&show_icons=true&theme=transparent&hide_border=true&title_color=E3B34C&icon_color=E3B34C&text_color=A6A6A6" alt="David's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asuskf&theme=transparent&hide_border=true&ring=E3B34C&fire=E3B34C&currStreakLabel=E3B34C" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Optimizing systems, extracting knowledge, and driving high-performance execution."</i>
+</div>
