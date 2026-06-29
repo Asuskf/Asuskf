@@ -56,7 +56,6 @@ I am a professional **Data Scientist** and **AI Architect** with **6 years of ex
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asuskf&show_icons=true&theme=transparent&hide_border=true&title_color=E3B34C&icon_color=E3B34C&text_color=A6A6A6" alt="David's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asuskf&theme=transparent&hide_border=true&ring=E3B34C&fire=E3B34C&currStreakLabel=E3B34C" alt="GitHub Streak" />
 </div>
 
